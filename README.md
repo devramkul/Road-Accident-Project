@@ -37,3 +37,5 @@ to explore the road accident insights.
 # Conclusion
 Summarize the key findings and insights obtained from the analysis of the road accident data using Excel. Discuss the implications of these findings 
 and how they can contribute to improving road safety measures.
+
+![Screenshot](Dashboard.png)
