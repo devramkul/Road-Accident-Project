@@ -1,10 +1,5 @@
 # Road-Accident-Project
 
-# Road Accident Project
-This project focuses on analyzing road accident data using Excel to create a comprehensive dashboard for the years 2021 and 2022. 
-The dashboard will provide insights into various aspects of road accidents, including casualties, accident severity, vehicle types, monthly trends, 
-road types, road surfaces, and the relationship between casualties and location/time.
-
 # Project Overview
 The objective of this project is to clean, process, analyze, and visualize road accident data using Excel to gain valuable insights
 and create a user-friendly dashboard. The primary key performance indicators (KPIs) include the total number of casualties after accidents,
@@ -13,6 +8,11 @@ the percentage of casualties relative to accident severity, and the type of vehi
 The secondary KPIs focus on the total casualties categorized by vehicle type, monthly trends comparing casualties between the current year 
 and the previous year, the road types with the maximum casualties, the distribution of casualties based on road surface conditions, and the 
 relationship between casualties based on the location (area) and time (day/night).
+
+# Aim
+This project focuses on analyzing road accident data using Excel to create a comprehensive dashboard for the years 2021 and 2022. 
+The dashboard will provide insights into various aspects of road accidents, including casualties, accident severity, vehicle types, monthly trends, 
+road types, road surfaces, and the relationship between casualties and location/time.
 
 # Dataset
 The dataset used for this analysis is an Excel file containing road accident data for the years 2021 and 2022. The dataset includes information 
@@ -39,3 +39,9 @@ Summarize the key findings and insights obtained from the analysis of the road a
 and how they can contribute to improving road safety measures.
 
 ![Screenshot](Dashboard.png)
+
+# Challenges
+One of the main challenges in creating an Excel dashboard for the Road Accident Project is striking the right balance between data complexity and user-friendliness. You need to ensure that the dashboard provides comprehensive insights while remaining easy to understand and navigate, addressing the needs of both data analysts and non-technical stakeholders.
+
+
+
