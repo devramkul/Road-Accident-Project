@@ -38,7 +38,10 @@ to explore the road accident insights.
 Summarize the key findings and insights obtained from the analysis of the road accident data using Excel. Discuss the implications of these findings 
 and how they can contribute to improving road safety measures.
 
-![Screenshot](Dashboard.png)
+![Dashboard](./PNG_Files/Dashboard.png)
+
+![KPI](./PNG_Files/KPI.png)
+
 
 # Challenges
 One of the main challenges in creating an Excel dashboard for the Road Accident Project is striking the right balance between data complexity and user-friendliness. You need to ensure that the dashboard provides comprehensive insights while remaining easy to understand and navigate, addressing the needs of both data analysts and non-technical stakeholders.
